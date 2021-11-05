@@ -3,4 +3,4 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-[Link](/install.msi) and ![Image](src)
+[Link](/spice-webdavd-x64-2.2.msi) and ![Image](src)
